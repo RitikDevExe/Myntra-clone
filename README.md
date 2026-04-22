@@ -14,8 +14,8 @@ This project focuses on layout structuring and UI design.
 
 \## 🚀 Live Demo
 
-🔗 https://your-live-link.com  
 
+🔗 https://RitikDevExe.github.io/Myntra-clone
 
 
 \---
@@ -30,17 +30,17 @@ This project focuses on layout structuring and UI design.
 
 \- Multi-page navigation:
 
-&#x20; - Homepage
+ - Homepage
 
-&#x20; - Product listing page
+ - Product listing page
 
-&#x20; - Product detail page
+ - Product detail page
 
-\- Product cards with pricing \& discounts
+\- Product cards with pricing & discounts
 
 \- Filter sidebar UI
 
-\- Add to Bag \& Wishlist buttons (UI only)
+\- Add to Bag & Wishlist buttons (UI only)
 
 
 
@@ -113,11 +113,9 @@ Myntra Clone/
 \## 📌 How to Run Locally
 
 
-
 1\. Clone the repository:
 
-git clone https://github.com/your-username/myntra-clone.git
-
+git clone https://github.com/RitikDevExe/Myntra-clone.git
 
 
 2\. Open `index.html` in your browser
